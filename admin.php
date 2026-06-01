@@ -119,7 +119,7 @@ $resultado = $conexion->query("SELECT * FROM herramientas");
 
 <div class="nabvar">
 	<div>
-	       <i class="fas fa-tools"></i> Ferreteria  Truper - Panel de Adminstracion 
+	       <i class="fas fa-tools"></i> Ferreteria  Truper Equipo9 - Panel de Adminstracion 
 	</div>
 
 	<div>
