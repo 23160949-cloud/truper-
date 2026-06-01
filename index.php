@@ -60,7 +60,7 @@
 
 		<p>Sistema de gestion de herramientas</p>
 
-		<p><b>Mision:</b> Ofrecer herramientas de calidad.</p>
+		<p><b>Mision:</b> Ofrecer herramientas de calidad somos lo mejor.</p>
 		<p><b>Vision:</b> Ser lider en servicio y productos.</p>
 
 		<a href="login.php">
