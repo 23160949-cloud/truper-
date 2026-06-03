@@ -56,7 +56,7 @@
 <body>
 
 <div class="card">
-		<h1><i class="fas fa-tools"></i> Ferreteria Truper EquipoNueve</h1>
+		<h1><i class="fas fa-tools"></i> tercera oportunidad 4sc hjer</h1>
 
 		<p>Sistema de gestion de herramientas</p>
 

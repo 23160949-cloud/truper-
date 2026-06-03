@@ -74,7 +74,7 @@ if ($usuario == "23160949@itoaxaca.edu.mx" && $password == "23160949ITO") {
 <body>
 
 <div class="login-box">
-	<h2><i class="fas fa-user-lock"></i> Iniciar Sesion Tercera Oportunidad 4SC HJER</h2>
+	<h2><i class="fas fa-user-lock"></i> Iniciar Sesion </h2>
 
 	<form method="POST">
 		<input type="text" name="usuario"  placeholder="Usuario" required>
