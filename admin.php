@@ -14,7 +14,7 @@ if ($_POST) {
 		 VALUES('$nombre', '$descripcion', '$precio','$stock')";
 
 	if($conexion->query($sql)){
-	  echo "<h3>Resgistro guardado correctamente</h3>";
+	  echo "<h3>Resgistro guardado con exito</h3>";
 	} else {
 	  echo "Error:". $conexion->error;
 	}
